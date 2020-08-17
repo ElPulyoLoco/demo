@@ -1,0 +1,11 @@
+[
+{"mitarbeiter_id":"1","mitarbeiter_vorname":"Johannes","mitarbeiter_nachname":"Dietmar","mitarbeiter_einstellungs_datum":"2012-12-20","mitarbeiter_austritts_datum":null,"mitarbeiter_kuerzel":"JDI","mitarbeiter_geloescht":"0","mitarbeiter_team_id":"1"},
+{"mitarbeiter_id":"2","mitarbeiter_vorname":"Ottfried","mitarbeiter_nachname":"Fischer","mitarbeiter_einstellungs_datum":"2010-12-10","mitarbeiter_austritts_datum":null,"mitarbeiter_kuerzel":"OFI","mitarbeiter_geloescht":"0","mitarbeiter_team_id":"1"},
+{"mitarbeiter_id":"3","mitarbeiter_vorname":"Dieter","mitarbeiter_nachname":"Dietmar","mitarbeiter_einstellungs_datum":"2019-12-06","mitarbeiter_austritts_datum":null,"mitarbeiter_kuerzel":"DDI","mitarbeiter_geloescht":"0","mitarbeiter_team_id":"1"},
+{"mitarbeiter_id":"4","mitarbeiter_vorname":"Franz","mitarbeiter_nachname":"Dietmar","mitarbeiter_einstellungs_datum":"2020-12-09","mitarbeiter_austritts_datum":null,"mitarbeiter_kuerzel":"FDI","mitarbeiter_geloescht":"0","mitarbeiter_team_id":"1"},
+{"mitarbeiter_id":"5","mitarbeiter_vorname":"Petra","mitarbeiter_nachname":"Fischer","mitarbeiter_einstellungs_datum":"2010-12-10","mitarbeiter_austritts_datum":null,"mitarbeiter_kuerzel":"PFI","mitarbeiter_geloescht":"0","mitarbeiter_team_id":"2"},
+{"mitarbeiter_id":"6","mitarbeiter_vorname":"Paolo","mitarbeiter_nachname":"Dietmar","mitarbeiter_einstellungs_datum":"2019-12-06","mitarbeiter_austritts_datum":null,"mitarbeiter_kuerzel":"PDI","mitarbeiter_geloescht":"0","mitarbeiter_team_id":"3"},
+{"mitarbeiter_id":"7","mitarbeiter_vorname":"Franziska","mitarbeiter_nachname":"Dietmar","mitarbeiter_einstellungs_datum":"2020-12-09","mitarbeiter_austritts_datum":null,"mitarbeiter_kuerzel":"FRI","mitarbeiter_geloescht":"0","mitarbeiter_team_id":"4"}
+]
+
+
